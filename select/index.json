@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホワイトブーケ",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-08T15:51:53.532447Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホワイトブーケ",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_ホワイトブーケ_花譜.txt"
+    }
+  ]
+}
